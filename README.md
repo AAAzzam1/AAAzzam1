@@ -42,6 +42,8 @@
 <br />
 
 ---
+
+<h2>:zap: GitHub Stats</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AliAzzam91&show_icons=true&hide_border=true"/>
 
 [linkedin]: https://linkedin.com/in/aliazzam91
