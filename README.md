@@ -4,9 +4,9 @@
 ✉️ Email: ali.azzam1991@gmail.com <br/>
 
 
-## I'm a Junior Full Stack Web Developer!!
+## I'm a Software Developer!!
 
-- 🔭 I just launched my career in full stack web development
+- 🔭 I just launched my career in software development
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Start a career with a reputable company
 - ⚡ Fun fact: I love camping
